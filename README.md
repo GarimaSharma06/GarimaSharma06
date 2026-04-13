@@ -10,14 +10,14 @@ Welcome to my GitHub profile!
 
   
 # 🛠️ Skills:
-- Python (Basics)  
+- Python 
 - HTML  
 - CSS  
 - JavaScript (Learning)  
-- C (Learning)  
+- C   
 
 
-# 📌 What I’m Working On:
+# 📌 What I'm Working On:
 - Beginner-friendly projects  
 - Improving coding fundamentals  
 - Learning Git & GitHub  
@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
 - 
 
 # 🎯 Goals:
-- Contribute to Open Source programs like GSSoC 🚀  
+- Contribute to Open Source programs like GSSoC   
 - Build real-world projects  
 - Become a consistent developer  
 
