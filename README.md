@@ -22,7 +22,7 @@ Welcome to my GitHub profile!
 - Improving coding fundamentals  
 - Learning Git & GitHub  
 - Starting my Open Source journey
-- 
+
 
 # 🎯 Goals:
 - Contribute to Open Source programs like GSSoC   
