@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi👋, I'm a 1st Year CSE Student
 
-<!--
-**GarimaSharma06/GarimaSharma06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+# 🚀 About Me:
+- 🎓 1st year Computer Science student  
+- 💻 Learning C, Python and Web Development (HTML, CSS, JavaScript)  
+- 🧠 Interested in problem-solving and building projects  
+- 🌱 Currently exploring Open Source development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+# 🛠️ Skills:
+- Python (Basics)  
+- HTML  
+- CSS  
+- JavaScript (Learning)  
+- C (Learning)  
+
+
+# 📌 What I’m Working On:
+- Beginner-friendly projects  
+- Improving coding fundamentals  
+- Learning Git & GitHub  
+- Starting my Open Source journey
+- 
+
+# 🎯 Goals:
+- Contribute to Open Source programs like GSSoC 🚀  
+- Build real-world projects  
+- Become a consistent developer  
+
+
+
+# 📫 Connect With Me
+- GitHub: https://www.linkedin.com/in/garima-sharma-2032a3379
+  
+
+⭐ Thanks for visiting my profile!
