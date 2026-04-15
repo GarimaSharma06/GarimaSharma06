@@ -3,10 +3,10 @@
 Welcome to my GitHub profile!
 
 # 🚀 About Me:
-- 🎓 1st year Computer Science student  
-- 💻 Learning C, Python and Web Development (HTML, CSS, JavaScript)  
-- 🧠 Interested in problem-solving and building projects  
-- 🌱 Currently exploring Open Source development  
+-  1st year Computer Science student  
+-  Learning C, Python and Web Development (HTML, CSS, JavaScript)  
+-  Interested in problem-solving and building projects  
+-  Currently exploring Open Source development  
 
   
 # 🛠️ Skills:
@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 - HTML  
 - CSS  
 - JavaScript (Learning)  
-- C   
+- C (learning)
 
 
 # 📌 What I'm Working On:
@@ -25,14 +25,13 @@ Welcome to my GitHub profile!
 
 
 # 🎯 Goals:
-- Contribute to Open Source programs like GSSoC   
+- Contribute to Open Source programs   
 - Build real-world projects  
 - Become a consistent developer  
 
 
-
 # 📫 Connect With Me
-- GitHub: https://www.linkedin.com/in/garima-sharma-2032a3379
+- Linkedin: https://www.linkedin.com/in/garima-sharma-2032a3379
   
 
 ⭐ Thanks for visiting my profile!
